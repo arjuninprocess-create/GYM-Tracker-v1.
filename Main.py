@@ -2,6 +2,7 @@
 from inside_menu.employees import employees_menu
 from inside_menu.membership import membership_plan
 from inside_menu.customers import adding_customer, view_customer
+from inside_menu.services import services
 
 def menu():
     while True:
@@ -27,7 +28,9 @@ def menu():
      elif option == "3":
         view_customer()  
      elif option == "4":
-        adding_customer()        
+        adding_customer() 
+     elif option == "5":
+        services()          
      elif option == "6":
         print("Thank you for using gym tracker...")   
         break
