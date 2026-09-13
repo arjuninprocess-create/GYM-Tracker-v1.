@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "1",
+        "Name": "Ryaan s.",
+        "Age": "21",
+        "Membership": "Elite"
+    },
+    {
+        "ID": "2",
+        "Name": "Daniel joseph",
+        "Age": "23",
+        "Membership": "Regular"
+    },
+    {
+        "ID": "3",
+        "Name": "Shalvin Sanu",
+        "Age": "19",
+        "Membership": "Plus"
+    },
+    {
+        "ID": "4",
+        "Name": "Vyshnav S.",
+        "Age": "20",
+        "Membership": "Premium"
+    }
+]
