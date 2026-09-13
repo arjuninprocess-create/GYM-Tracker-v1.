@@ -9,6 +9,10 @@ this is a simple project containing loops, json that stores data of the customer
 basically, a python beginner project that was executed to action :)
 
 
+
+## Project Structure
+
+```text
 GYM-Tracker/
 │
 ├── Main.py
@@ -22,3 +26,12 @@ GYM-Tracker/
 │
 ├── .gitignore
 └── README.md
+```
+
+## Features
+
+- Membership Management
+- Employee Management
+- Customer Management
+- JSON Data Storage
+- Service Catalog
