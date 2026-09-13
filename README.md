@@ -10,15 +10,15 @@ basically, a python beginner project that was executed to action :)
 
 
 GYM-Tracker/
-|
-|-- Main.py
-|-- customer.json
-|
-|-- inside_menu/
-|   |-- membership.py
-|   |-- employees.py
-|   |-- customers.py
-|   |-- services.py
-|
-|-- .gitignore
-|-- README.md
+│
+├── Main.py
+├── customer.json
+│
+├── inside_menu/
+│   ├── membership.py
+│   ├── employees.py
+│   ├── customers.py
+│   └── services.py
+│
+├── .gitignore
+└── README.md
